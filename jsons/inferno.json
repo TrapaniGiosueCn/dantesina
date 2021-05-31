@@ -1,0 +1,81 @@
+{
+  "Inferno": {
+    "La Selva": {
+      "who": "Dante si ritrova\nin una selva oscura.\nCosta sta succedendo?",
+      "what": {
+        "type": "video",
+        "res": "https://www.youtube.com/watch?v=2DM39Dnaxhs&list=PLOUop9wRhGFgcP372Iy1LRzllAF7nAEpS&index=1"
+      }
+    },
+    "I girone": {
+      "who": "Prima di entrare\nall'inferno ci sono\ngli ignavi e la loro pena\nè correre nudi punti da\nvespe e mosconi.\nNel limbo ci sono\ni non battezzati\ne la loro pena\nè un inappagabile\n desiderio di vedere \nDio.\nTroviamo Omero, Aristotele",
+      "what": {
+        "type": "video",
+        "res": "https://www.youtube.com/watch?v=CZhJBAmjyDw&list=PLOUop9wRhGFgcP372Iy1LRzllAF7nAEpS&index=2"
+      }
+    },
+    "II girone": {
+      "who": "Nel secondo girone\n ci sonoi lussuriosi che\n sono trasportati\n da una bufera.\nTroviamo Paolo e Francesca.",
+      "what": {
+        "type": "video",
+        "res": "https://www.youtube.com/watch?v=GbJTzkuxJ6Y&list=PLOUop9wRhGFgcP372Iy1LRzllAF7nAEpS&index=3"
+      }
+    },
+    "III girone": {
+      "who": "I golosi sono destinati a\nrimanere stesi per terra\nesposti ai\nfenomeni atmosferici\nmentre Cerbero li squarta\nTroviamo Bonifacio VIII",
+      "what": {
+        "type": "video",
+        "res": "https://divinacommedia.weebly.com/iii-cerchio.html"
+      }
+    },
+    "IV girone": {
+      "who": "Avari e Prodighi devono\nspingere enormi massi\ndivisi in due gruppi e\nquando si incontrano\nsi azzuffano.\nTroviamo Pluto",
+      "what": {
+        "type": "video",
+        "res": "https://divinacommedia.weebly.com/iv-cerchio.html#:~:text=È%20la%20zona%20dell%27Inferno,pape%20Satàn%20aleppe%2C%20variamente%20interpretata."
+      }
+    },
+    "V girone": {
+      "who": "Gli iracondi nuotano nello\nStige azzuffandosi,\nmentre gli  accidiosi\nstanno sott'acqua",
+      "what": {
+        "type": "video",
+        "res": "https://www.youtube.com/watch?v=F00u7Tn3JVo&list=PLOUop9wRhGFgcP372Iy1LRzllAF7nAEpS&index=4"
+      }
+    },
+    "VI girone": {
+      "who": "Eretici come\nFarinata degli Uberti\ngiacciono in\nsepolcri infuocati",
+      "what": {
+        "type": "video",
+        "res": "https://www.skuola.net/dante/divina-commedia/eretici-inferno-divina.html"
+      }
+    },
+    "VII girone": {
+      "who": "I violenti sono immersi\nnel Flegetonte,\ntrasformati in alberi o\nsotto una pioggia infuocata.\nTroviamo Teseo, Arianna e\nPier della Vigna",
+      "what": {
+        "type": "video",
+        "res": "https://www.youtube.com/watch?v=XR9NuWAn1wY&list=PLOUop9wRhGFgcP372Iy1LRzllAF7nAEpS&index=5"
+      }
+    },
+    "VIII girone": {
+      "who": "Qui sono rinchiusi\n tutti coloro che\nsi possono classificare\ncome fraudolenti.\nTroviamo Papa Clemente V",
+      "what": {
+        "type": "video",
+        "res": "https://divinacommedia.weebly.com/malebolge.html"
+      }
+    },
+    "IX girone": {
+      "who": "Qui sono rinchiusi\n tutti coloro che \nsi possono classificare\ncome traditori.\nTroviamo il Conte Ugolino\ne l'Arcivescovo Ruggieri",
+      "what": {
+        "type": "video",
+        "res": "https://divinacommedia.weebly.com/cocito.html"
+      }
+    },
+    "Lucifero": {
+      "who": "Non riesci a credere\n ai tuoi occhi.\nCosa c'è nel lago?\nRisolvi il puzzle",
+      "what": {
+        "type": "game",
+        "res": "puzzle"
+      }
+    }
+  }
+}

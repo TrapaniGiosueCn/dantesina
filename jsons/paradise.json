@@ -1,0 +1,81 @@
+{
+  "Paradise": {
+    "Transumanare": {
+      "who": "Dante deve\ntransumanare per\npoter accedere al\nParadiso",
+      "what": {
+        "type": "video",
+        "res": "https://www.youtube.com/watch?v=hyIjgUr5WJU&list=PLvV1DromSLd4ojTxV0k7gdA-qS8F2H2iZ&index=1"
+      }
+    },
+    "Luna": {
+      "who": "I mancanti ai\nvoti perchè\ncostretti sono rappresentati\ncome immagini riflesse\nin acqua.\nTroviamo Piccarda Donati",
+      "what": {
+        "type": "video",
+        "res": "https://www.youtube.com/watch?v=77300_aK1Xw&list=PLvV1DromSLd4ojTxV0k7gdA-qS8F2H2iZ&index=2"
+      }
+    },
+    "Mercurio": {
+      "who": "Gli spiriti\nconseguitori\ndi fama e gloria\nsono dei bagliori\nche danzano.\nTroviamo Giustiniano",
+      "what": {
+        "type": "video",
+        "res": "https://divinacommedia.weebly.com/ii-cielo-di-mercurio.html"
+      }
+    },
+    "Venere": {
+      "who": "In Venere ci sono\ngli spiriti amanti\nche volteggiano\ne cantano.",
+      "what": {
+        "type": "video",
+        "res": "https://divinacommedia.weebly.com/iii-cielo-di-venere.html"
+      }
+    },
+    "Sole": {
+      "who": "Gli spiriti sapienti\ndel Sole cantano\ne ballano\nin triplice corona.\nQui trova San Tommaso",
+      "what": {
+        "type": "video",
+        "res": "https://www.youtube.com/watch?v=aD_65zc3OUU&list=PLvV1DromSLd4ojTxV0k7gdA-qS8F2H2iZ&index=3"
+      }
+    },
+    "Marte": {
+      "who": "In Marte ci sono\ngli spiriti combattenti\ne sono delle\ngemme danzanti in croce.\nTroviamo Cristo",
+      "what": {
+        "type": "video",
+        "res": "https://www.youtube.com/watch?v=MatPrMpqzAk&list=PLvV1DromSLd4ojTxV0k7gdA-qS8F2H2iZ&index=4"
+      }
+    },
+    "Giove": {
+      "who": "Nel cielo di Giove\nci sono gli\nspiriti giusti",
+      "what": {
+        "type": "video",
+        "res": "https://divinacommedia.weebly.com/vi-cielo-di-giove.html"
+      }
+    },
+    "Saturno": {
+      "who": "Gli spiriti meditanti\npopolano il cielo\ndi Saturno e\nsi muovono lungo\nuna scala d'oro",
+      "what": {
+        "type": "video",
+        "res": "https://divinacommedia.weebly.com/vii-cielo-di-saturno.html"
+      }
+    },
+    "Stelle fisse": {
+      "who": "Anime trionfanti sono\ngli spiriti di\nquesto cielo.\nTroviamo Adamo,\nla Madonna e\nl'Arcangelo Gabriele",
+      "what": {
+        "type": "video",
+        "res": "https://www.youtube.com/watch?v=ryddRW-eCp4&list=PLvV1DromSLd4ojTxV0k7gdA-qS8F2H2iZ&index=5"
+      }
+    },
+    "Primo mobile": {
+      "who": "Cori Angelici come\nnove cerchi che\ngirano attorno a\nun punto",
+      "what": {
+        "type": "video",
+        "res": "https://www.youtube.com/watch?v=t9yywSuiIbQ&list=PLvV1DromSLd4ojTxV0k7gdA-qS8F2H2iZ&index=6"
+      }
+    },
+    "Empireo": {
+      "who": "Per la tanta luce non\n riesci a comprendere\ncosa c'è davanti a te.\nRisolvi il puzzle",
+      "what": {
+        "type": "game",
+        "res": "puzzle"
+      }
+    }
+  }
+}

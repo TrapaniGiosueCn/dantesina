@@ -1,0 +1,67 @@
+{
+  "Purgatorio": {
+    "Anti-Purgatorio": {
+      "who": "In questo cornice\n ci sono i negligenti \ne devono sostare\nqui per poter\npoi entrare nel\nPurgatorio.\nTroviamo Manfredi e\nBelacqua.",
+      "what": {
+        "type": "video",
+        "res": "https://divinacommedia.weebly.com/antipurgatorio.html"
+      }
+    },
+    "I cornice": {
+      "who": "La pena dei superbi\nè quella di\nportare pesi mentre\ncamminano",
+      "what": {
+        "type": "video",
+        "res": "https://www.youtube.com/watch?v=k8ViM8zdBDg&list=PLOUop9wRhGFgcP372Iy1LRzllAF7nAEpS&index=13"
+      }
+    },
+    "II cornice": {
+      "who": "Gli invidiosi hanno\nle palpebre cucite\ndal fil di ferro",
+      "what": {
+        "type": "video",
+        "res": "https://divinacommedia.weebly.com/ii-cornice.html"
+      }
+    },
+    "III cornice": {
+      "who": "Nella terza cornice\nci sono gli iracondi\ncostretti a\ncamminare nel\nbuio",
+      "what": {
+        "type": "video",
+        "res": "https://www.youtube.com/watch?v=HfPqS5e7FkM&list=PLOUop9wRhGFgcP372Iy1LRzllAF7nAEpS&index=14"
+      }
+    },
+    "IV cornice": {
+      "who": "Gli accidiosi\ncorrono gridando\nesempi di accidia\npunita",
+      "what": {
+        "type": "video",
+        "res": "https://divinacommedia.weebly.com/iv-cornice.html#:~:text=È%20la%20Cornice%20del%20Purgatorio,e%20XIX%20della%20II%20Cantica."
+      }
+    },
+    "V cornice": {
+      "who": "Avari e prodighi\nfanno parte della\nquinta cornice\ne devono stare\ndistesi e legati",
+      "what": {
+        "type": "video",
+        "res": "https://www.youtube.com/watch?v=O0ypzwHjKsA&list=PLOUop9wRhGFgcP372Iy1LRzllAF7nAEpS&index=15"
+      }
+    },
+    "VI cornice": {
+      "who": "La pena dei golosi\nè avere sempre\nfame e sete",
+      "what": {
+        "type": "video",
+        "res": "https://www.youtube.com/watch?v=WoPTjvrhT2E&list=PLOUop9wRhGFgcP372Iy1LRzllAF7nAEpS&index=16"
+      }
+    },
+    "VII cornice": {
+      "who": "Lussuriosi e sodomiti\ndevono camminare\nnel fuoco per\nscontare la loro\npena",
+      "what": {
+        "type": "video",
+        "res": "https://divinacommedia.weebly.com/vii-cornice.html"
+      }
+    },
+    "Paradiso Terrestre": {
+      "who": "Raccogli 33 stelle\nper poter accedere al\nParadiso.\nVIrgilio non\npotrà venire\nperò avrai una\nguida speciale\nCi riuscirai?",
+      "what": {
+        "type": "game",
+        "res": "run"
+      }
+    }
+  }
+}
